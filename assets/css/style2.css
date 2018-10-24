@@ -65,6 +65,7 @@ p{
 
 .container{
     margin-top:40px;
+
 }
 
 td{
@@ -96,6 +97,11 @@ footer{
 h2{
     font-size:20px;
     font-family: 'Georgia', Times, 'Times New Roman', serif;
+    margin-top:20px;
     
+}
+
+#group-projects{
+    margin-bottom:40px;
 }
 
