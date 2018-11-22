@@ -119,9 +119,84 @@ hr.new3 {
 
   #dbacks-card{
 margin:auto;
+
   }
 
   #marketing-text{
       margin-right:20px;
       margin-left:40px;
   }
+
+  #dbacks-1{
+    width: 800px;
+    height:1000px;
+    margin-bottom:20px;
+  }
+
+  #webmock{
+      width:500px;
+      margin-bottom:20px;
+  }
+
+  #appmock{
+      width:700px;
+      margin-bottom:20px;
+  }
+
+  #package{
+      width:500px;
+      margin-bottom:20px;
+  }
+
+  #fb-b{
+      width:700px;
+      margin-bottom:20px;
+  }
+
+  #snap-f{
+      width:500px;
+      margin-bottom:20px;
+  }
+
+  #blog-p{
+      width:400px;
+      margin-bottom:20px;
+  }
+
+  @media only screen and (max-width: 600px) {
+      #dbacks-1{
+          width:350px;
+          height:500px;
+          margin-bottom:20px;
+      }
+
+      #webmock{
+        width:350px;
+        margin-bottom:20px;
+    }
+   
+    #appmock{
+        width:350px;
+        margin-bottom:20px;
+    }
+
+    #package{
+        width:350px;
+        margin-bottom:20px;
+    }
+
+    #fb-b{
+        width:350px;
+        margin-bottom:20px;
+    }
+
+    #snap-f{
+        width:350px;
+        margin-bottom:20px;
+    }
+
+    #blog-p{
+        width:350px;
+        margin-bottom:20px;
+    }
+}
